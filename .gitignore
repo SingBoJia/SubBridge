@@ -8,9 +8,10 @@
 /vendor/ffmpeg/
 /vendor/vulkan-sdk/
 /vendor/ninja/
+/samples/*
+!/samples/README.md
 *.exe
 *.bin
 *.wav
 *.flac
 *.zip
-/samples/
