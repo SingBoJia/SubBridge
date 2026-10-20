@@ -1,0 +1,730 @@
+[
+  {
+    "id": 0,
+    "start": 0,
+    "end": 7000,
+    "en": "Tanya Cushman Reviewer: Peter van de Ven",
+    "zh": "Tanya Cushman 审阅：Peter van de Ven"
+  },
+  {
+    "id": 1,
+    "start": 19520,
+    "end": 20640,
+    "en": "Hear that?",
+    "zh": "听到了吗？"
+  },
+  {
+    "id": 2,
+    "start": 21920,
+    "end": 23640,
+    "en": "That's nothing.",
+    "zh": "那什么都没有。"
+  },
+  {
+    "id": 3,
+    "start": 24800,
+    "end": 28400,
+    "en": "Which is what I, as a speaker at today's conference,",
+    "zh": "这正是我作为今天大会演讲者"
+  },
+  {
+    "id": 4,
+    "start": 28400,
+    "end": 29600,
+    "en": "have for you all.",
+    "zh": "要给大家的东西。"
+  },
+  {
+    "id": 5,
+    "start": 30440,
+    "end": 37080,
+    "en": "I have nothing, nada, zip, zilch, zippo.",
+    "zh": "我一无所有，空空如也，什么都没有。"
+  },
+  {
+    "id": 6,
+    "start": 38080,
+    "end": 40560,
+    "en": "Nothing smart, nothing inspirational,",
+    "zh": "没有智慧，没有启发，"
+  },
+  {
+    "id": 7,
+    "start": 40560,
+    "end": 42880,
+    "en": "nothing even remotely researched at all.",
+    "zh": "甚至没做过半点研究。"
+  },
+  {
+    "id": 8,
+    "start": 43800,
+    "end": 46480,
+    "en": "I have absolutely nothing to say whatsoever.",
+    "zh": "我完全没什么可讲的。"
+  },
+  {
+    "id": 9,
+    "start": 47280,
+    "end": 51280,
+    "en": "And yet, through my manner of speaking, I will make it seem like I do.",
+    "zh": "但我的说话方式会让你们以为我有。"
+  },
+  {
+    "id": 10,
+    "start": 53320,
+    "end": 55720,
+    "en": "Like what I am saying is brilliant.",
+    "zh": "好像我说得很精彩。"
+  },
+  {
+    "id": 11,
+    "start": 60000,
+    "end": 61080,
+    "en": "You've learned something.",
+    "zh": "你们学到了东西。"
+  },
+  {
+    "id": 12,
+    "start": 62920,
+    "end": 65000,
+    "en": "Now, I'm going to get started with the opening.",
+    "zh": "现在，我从开场白开始。"
+  },
+  {
+    "id": 13,
+    "start": 65320,
+    "end": 66680,
+    "en": "I'm going to make a lot of hand gestures.",
+    "zh": "我会做很多手势。"
+  },
+  {
+    "id": 14,
+    "start": 67080,
+    "end": 68360,
+    "en": "I'm going to do this with my right hand.",
+    "zh": "我用右手这样比。"
+  },
+  {
+    "id": 15,
+    "start": 68360,
+    "end": 69560,
+    "en": "I'm going to do this with my left.",
+    "zh": "我用左手这样比。"
+  },
+  {
+    "id": 16,
+    "start": 69560,
+    "end": 71120,
+    "en": "I'm going to adjust my glasses.",
+    "zh": "我扶一下眼镜。"
+  },
+  {
+    "id": 17,
+    "start": 71960,
+    "end": 73640,
+    "en": "And then I'm going to ask you all a question.",
+    "zh": "然后我要问大家一个问题。"
+  },
+  {
+    "id": 18,
+    "start": 73640,
+    "end": 76240,
+    "en": "By show of hands, how many of you all have been asked a question before?",
+    "zh": "请举手，你们有多少人被问过问题？"
+  },
+  {
+    "id": 19,
+    "start": 78600,
+    "end": 79160,
+    "en": "Okay, great.",
+    "zh": "好，很好。"
+  },
+  {
+    "id": 20,
+    "start": 79160,
+    "end": 79920,
+    "en": "I'm seeing some hands.",
+    "zh": "我看到有人举手了。"
+  },
+  {
+    "id": 21,
+    "start": 79920,
+    "end": 81040,
+    "en": "And again, I have nothing here.",
+    "zh": "又一次，我这里什么都没准备。"
+  },
+  {
+    "id": 22,
+    "start": 83360,
+    "end": 86920,
+    "en": "Now, I'm going to react to that and act like I'm telling you a personal anecdote.",
+    "zh": "现在我要回应一下，装作在讲亲身经历。"
+  },
+  {
+    "id": 23,
+    "start": 88080,
+    "end": 89400,
+    "en": "Something to break the tension.",
+    "zh": "说点什么缓和气氛。"
+  },
+  {
+    "id": 24,
+    "start": 90160,
+    "end": 91840,
+    "en": "Something to endear myself a little bit.",
+    "zh": "说点什么讨大家喜欢。"
+  },
+  {
+    "id": 25,
+    "start": 92800,
+    "end": 95400,
+    "en": "Something kind of embarrassing.",
+    "zh": "说点有点尴尬的事。"
+  },
+  {
+    "id": 26,
+    "start": 98400,
+    "end": 99880,
+    "en": "And you guys are going to make an aw sound.",
+    "zh": "你们就会发出哦的感叹。"
+  },
+  {
+    "id": 27,
+    "start": 101520,
+    "end": 102160,
+    "en": "It's true.",
+    "zh": "这是真的。"
+  },
+  {
+    "id": 28,
+    "start": 102320,
+    "end": 103000,
+    "en": "It really happened.",
+    "zh": "真发生过。"
+  },
+  {
+    "id": 29,
+    "start": 105400,
+    "end": 106880,
+    "en": "And now, I'm going to bring it to a broader point.",
+    "zh": "然后我要把它引向更大的主题。"
+  },
+  {
+    "id": 30,
+    "start": 107600,
+    "end": 108440,
+    "en": "I'm going to reel you back in.",
+    "zh": "把你们的注意力拉回来。"
+  },
+  {
+    "id": 31,
+    "start": 110200,
+    "end": 111320,
+    "en": "I'm going to make it intellectual.",
+    "zh": "让它显得有思想深度。"
+  },
+  {
+    "id": 32,
+    "start": 112600,
+    "end": 113840,
+    "en": "I'm going to bring it to this man right here.",
+    "zh": "引到这个人身上。"
+  },
+  {
+    "id": 33,
+    "start": 115320,
+    "end": 119000,
+    "en": "Now, what this man did was important, I'm sure.",
+    "zh": "这个人做的事肯定很重要。"
+  },
+  {
+    "id": 34,
+    "start": 121280,
+    "end": 123620,
+    "en": "But I, for one, have no idea who he is.",
+    "zh": "但我完全不知道他是谁。"
+  },
+  {
+    "id": 35,
+    "start": 124340,
+    "end": 126840,
+    "en": "I simply Google image the word scientist.",
+    "zh": "我只是谷歌图片搜了科学家。"
+  },
+  {
+    "id": 36,
+    "start": 128200,
+    "end": 131180,
+    "en": "And now, you see, I'd like it to seem like I'm making points,",
+    "zh": "我想让你们觉得我在提出观点，"
+  },
+  {
+    "id": 37,
+    "start": 131800,
+    "end": 135140,
+    "en": "building an argument, inspiring you to change your life.",
+    "zh": "构建论证，激励你们改变人生。"
+  },
+  {
+    "id": 38,
+    "start": 135460,
+    "end": 140960,
+    "en": "When in reality, this is just me buying time.",
+    "zh": "其实我只是在拖延时间。"
+  },
+  {
+    "id": 39,
+    "start": 141180,
+    "end": 143900,
+    "en": "Now, if you don't believe me, let's take a look at the numbers.",
+    "zh": "不信的话，我们来看看数据。"
+  },
+  {
+    "id": 40,
+    "start": 144020,
+    "end": 145460,
+    "en": "This is a real thing that's happening right now.",
+    "zh": "这是此刻真实发生的事。"
+  },
+  {
+    "id": 41,
+    "start": 146940,
+    "end": 149180,
+    "en": "The number of talks that I'm giving is one.",
+    "zh": "我正在进行的演讲数量是一。"
+  },
+  {
+    "id": 42,
+    "start": 150700,
+    "end": 152900,
+    "en": "Interesting facts imparted thus far in said talk.",
+    "zh": "该演讲迄今传达的有趣事实。"
+  },
+  {
+    "id": 43,
+    "start": 152900,
+    "end": 154020,
+    "en": "Well, that's going to be a zero.",
+    "zh": "嗯，那将是零。"
+  },
+  {
+    "id": 44,
+    "start": 155060,
+    "end": 157960,
+    "en": "My height in inches is 70.5.",
+    "zh": "我的身高是70.5英寸。"
+  },
+  {
+    "id": 45,
+    "start": 157960,
+    "end": 159080,
+    "en": "Note the .5 there.",
+    "zh": "注意那个.5。"
+  },
+  {
+    "id": 46,
+    "start": 159600,
+    "end": 161240,
+    "en": "Two times six equals 12.",
+    "zh": "二乘六等于12。"
+  },
+  {
+    "id": 47,
+    "start": 161240,
+    "end": 164000,
+    "en": "And then, interestingly enough, six times two also equals 12.",
+    "zh": "有趣的是，六乘二也等于12。"
+  },
+  {
+    "id": 48,
+    "start": 164000,
+    "end": 164700,
+    "en": "That's math.",
+    "zh": "这就是数学。"
+  },
+  {
+    "id": 49,
+    "start": 166760,
+    "end": 169040,
+    "en": "352 is a three-digit number.",
+    "zh": "352是个三位数。"
+  },
+  {
+    "id": 50,
+    "start": 170120,
+    "end": 171340,
+    "en": "One, two, three, four, five.",
+    "zh": "一、二、三、四、五。"
+  },
+  {
+    "id": 51,
+    "start": 171340,
+    "end": 174080,
+    "en": "And then, almost immediately following that, we get six, seven, eight, nine, ten.",
+    "zh": "紧接着就是六、七、八、九、十。"
+  },
+  {
+    "id": 52,
+    "start": 176640,
+    "end": 179620,
+    "en": "Now, to add more filler here, I'm going to give you a couple more numbers to consider.",
+    "zh": "为了再凑点内容，我再给几个数字。"
+  },
+  {
+    "id": 53,
+    "start": 180320,
+    "end": 193200,
+    "en": "118, 237, 5,601, 2.6 million, 4, 4, 24, staggering.",
+    "zh": "118、237、5601、260万、4、4、24，惊人。"
+  },
+  {
+    "id": 54,
+    "start": 195200,
+    "end": 196640,
+    "en": "These are real numbers, all of them.",
+    "zh": "这些都是真实数字，全部都是。"
+  },
+  {
+    "id": 55,
+    "start": 198180,
+    "end": 200260,
+    "en": "And to follow that up, let's take a look at some graphs.",
+    "zh": "接下来，我们来看一些图表。"
+  },
+  {
+    "id": 56,
+    "start": 200360,
+    "end": 203580,
+    "en": "Now, if you take a look at this pie chart, what you're going to see is that the majority",
+    "zh": "看看这个饼图，你会发现大多数"
+  },
+  {
+    "id": 57,
+    "start": 203580,
+    "end": 205180,
+    "en": "far exceeds the minority.",
+    "zh": "远远超过少数。"
+  },
+  {
+    "id": 58,
+    "start": 206440,
+    "end": 207220,
+    "en": "Everybody see that?",
+    "zh": "大家都看到了吗？"
+  },
+  {
+    "id": 59,
+    "start": 208380,
+    "end": 209100,
+    "en": "Cool, isn't it?",
+    "zh": "很酷，对吧？"
+  },
+  {
+    "id": 60,
+    "start": 209780,
+    "end": 213820,
+    "en": "And let's take a look at this bar graph because it shows, similarly, irrelevant data.",
+    "zh": "看看这个柱状图，它同样展示了无关数据。"
+  },
+  {
+    "id": 61,
+    "start": 214260,
+    "end": 218820,
+    "en": "Now, I'm doing this because I'd like to make it seem like I've done my homework.",
+    "zh": "我这么做是想显得自己做过功课。"
+  },
+  {
+    "id": 62,
+    "start": 219360,
+    "end": 224060,
+    "en": "If you were, say, watching this on YouTube with the sound off, you might think, huh, okay.",
+    "zh": "比如你静音看YouTube，可能会想，嗯，好吧。"
+  },
+  {
+    "id": 63,
+    "start": 224760,
+    "end": 226340,
+    "en": "This guy knows what he's talking about.",
+    "zh": "这家伙懂自己在说什么。"
+  },
+  {
+    "id": 64,
+    "start": 227040,
+    "end": 228100,
+    "en": "But I don't.",
+    "zh": "但我并不懂。"
+  },
+  {
+    "id": 65,
+    "start": 228840,
+    "end": 230440,
+    "en": "I'm floundering, panicking.",
+    "zh": "我正手忙脚乱，惊慌失措。"
+  },
+  {
+    "id": 66,
+    "start": 230560,
+    "end": 231160,
+    "en": "I've got nothing.",
+    "zh": "我脑子里空空如也。"
+  },
+  {
+    "id": 67,
+    "start": 231480,
+    "end": 233080,
+    "en": "I'm a total and utter phony.",
+    "zh": "我是个彻头彻尾的骗子。"
+  },
+  {
+    "id": 68,
+    "start": 233560,
+    "end": 234520,
+    "en": "But you know what?",
+    "zh": "但你知道吗？"
+  },
+  {
+    "id": 69,
+    "start": 235140,
+    "end": 236400,
+    "en": "I was offered a TED Talk.",
+    "zh": "有人邀请我做TED演讲。"
+  },
+  {
+    "id": 70,
+    "start": 236400,
+    "end": 238760,
+    "en": "And, damn it, I'm going to see it through.",
+    "zh": "该死的，我要坚持到底。"
+  },
+  {
+    "id": 71,
+    "start": 239780,
+    "end": 246780,
+    "en": "Now, if you take a look behind me, these are just words paired with vaguely thought-provoking",
+    "zh": "看我身后，这些只是词语配上些"
+  },
+  {
+    "id": 72,
+    "start": 246780,
+    "end": 247580,
+    "en": "stock photos.",
+    "zh": "故作深奥的图库照片。"
+  },
+  {
+    "id": 73,
+    "start": 248360,
+    "end": 252160,
+    "en": "I'm going to point at them like I'm making use both of my time as well as your time.",
+    "zh": "我要指着它们，假装没浪费你我时间。"
+  },
+  {
+    "id": 74,
+    "start": 252460,
+    "end": 254820,
+    "en": "But in reality, I don't know what half of them mean.",
+    "zh": "但其实一半的词我都不懂。"
+  },
+  {
+    "id": 75,
+    "start": 255640,
+    "end": 258540,
+    "en": "And now, as these continue, I'm just going to start saying gibberish.",
+    "zh": "接下来，我就开始胡说八道了。"
+  },
+  {
+    "id": 76,
+    "start": 259200,
+    "end": 261000,
+    "en": "Wag-a-wah, gabba-gabba.",
+    "zh": "哇嘎哇嘎，嘎巴嘎巴。"
+  },
+  {
+    "id": 77,
+    "start": 261680,
+    "end": 263540,
+    "en": "Turkey, mouth-in-a-mouth.",
+    "zh": "火鸡，嘴里套嘴。"
+  },
+  {
+    "id": 78,
+    "start": 264420,
+    "end": 266500,
+    "en": "Chip, trip, my dog Skip.",
+    "zh": "薯片，旅行，我的狗斯基普。"
+  },
+  {
+    "id": 79,
+    "start": 267060,
+    "end": 268420,
+    "en": "Rip it and dip it, Richard.",
+    "zh": "撕开蘸一下，理查德。"
+  },
+  {
+    "id": 80,
+    "start": 269280,
+    "end": 272420,
+    "en": "I'm an itty-bitty baby bopper, and I'm hungry in my tum-tum.",
+    "zh": "我是个小不点宝宝，肚子饿饿。"
+  },
+  {
+    "id": 81,
+    "start": 273380,
+    "end": 275240,
+    "en": "Brad Pitt, Uma Thurman.",
+    "zh": "布拉德·皮特，乌玛·瑟曼。"
+  },
+  {
+    "id": 82,
+    "start": 276280,
+    "end": 279860,
+    "en": "Names, things, words, words, and more things.",
+    "zh": "名字、东西、词语、词语，还有更多东西。"
+  },
+  {
+    "id": 83,
+    "start": 279980,
+    "end": 282360,
+    "en": "And see, it feels like it might make sense, doesn't it?",
+    "zh": "你看，好像有点道理，对吧？"
+  },
+  {
+    "id": 84,
+    "start": 283500,
+    "end": 287100,
+    "en": "Like maybe, just maybe, I'm building to some sort of satisfying conclusion.",
+    "zh": "好像我正走向一个圆满的结论。"
+  },
+  {
+    "id": 85,
+    "start": 287280,
+    "end": 289000,
+    "en": "I mean, I'm gesticulating as though I am.",
+    "zh": "我还在比划，像真有那么回事。"
+  },
+  {
+    "id": 86,
+    "start": 289420,
+    "end": 291080,
+    "en": "I'm pacing, I'm growing in intensity.",
+    "zh": "我踱着步，情绪越来越强烈。"
+  },
+  {
+    "id": 87,
+    "start": 291240,
+    "end": 293600,
+    "en": "I'm taking off my glasses, which, by the way, are just frames.",
+    "zh": "我摘下眼镜，顺便说，这只有镜框。"
+  },
+  {
+    "id": 88,
+    "start": 299280,
+    "end": 305280,
+    "en": "I wore them to look smart, even though my vision is perfect.",
+    "zh": "戴上显得聪明，其实我视力很好。"
+  },
+  {
+    "id": 89,
+    "start": 307800,
+    "end": 309200,
+    "en": "And now I'm going to slow things down a little bit.",
+    "zh": "现在我要把节奏放慢一点。"
+  },
+  {
+    "id": 90,
+    "start": 310140,
+    "end": 311180,
+    "en": "I'm going to change the tone.",
+    "zh": "我要换个语气。"
+  },
+  {
+    "id": 91,
+    "start": 313180,
+    "end": 317260,
+    "en": "I'm going to make it seem like I'm building to a moment.",
+    "zh": "我要装得像在铺垫某个时刻。"
+  },
+  {
+    "id": 92,
+    "start": 320540,
+    "end": 321840,
+    "en": "And what if I was?",
+    "zh": "万一我真是在铺垫呢？"
+  },
+  {
+    "id": 93,
+    "start": 324660,
+    "end": 325500,
+    "en": "Amazing, isn't it?",
+    "zh": "很神奇，对吧？"
+  },
+  {
+    "id": 94,
+    "start": 325720,
+    "end": 326240,
+    "en": "What can you do?",
+    "zh": "你能怎么办呢？"
+  },
+  {
+    "id": 95,
+    "start": 326700,
+    "end": 327960,
+    "en": "Life's a roller coaster.",
+    "zh": "人生就像过山车。"
+  },
+  {
+    "id": 96,
+    "start": 332600,
+    "end": 335780,
+    "en": "You know, if there's one thing you take away from my talk,",
+    "zh": "如果这场演讲你只记住一件事，"
+  },
+  {
+    "id": 97,
+    "start": 335920,
+    "end": 337540,
+    "en": "I'd like you to think about what you heard at the beginning.",
+    "zh": "我希望你想想开头听到的内容。"
+  },
+  {
+    "id": 98,
+    "start": 338540,
+    "end": 340800,
+    "en": "And I'd like you to think about what you hear now.",
+    "zh": "也想想你现在听到的内容。"
+  },
+  {
+    "id": 99,
+    "start": 342400,
+    "end": 345460,
+    "en": "Because it was nothing, and it's still nothing.",
+    "zh": "因为那本来就是空话，现在还是空话。"
+  },
+  {
+    "id": 100,
+    "start": 345560,
+    "end": 346240,
+    "en": "Think about that.",
+    "zh": "想想这个"
+  },
+  {
+    "id": 101,
+    "start": 347300,
+    "end": 348540,
+    "en": "Or don't, that's fine.",
+    "zh": "不想也行"
+  },
+  {
+    "id": 102,
+    "start": 349500,
+    "end": 351740,
+    "en": "And now I'm going to stop talking.",
+    "zh": "现在我不说了"
+  },
+  {
+    "id": 103,
+    "start": 352340,
+    "end": 352760,
+    "en": "Thank you.",
+    "zh": "谢谢"
+  }
+]

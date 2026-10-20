@@ -30,6 +30,23 @@
 | CUDA（官方 CLI） | 1m34s | 2.33s | 40.6x |
 | Vulkan 首次运行（编译着色器） | 1m34s | 15.65s | 6.0x |
 
+### 端到端翻译（TED 演讲，104 段）
+
+| 渠道 | 耗时 | 请求数 | 质量 |
+| --- | --- | --- | --- |
+| MyMemory（免费） | 56.3s | 104 | 逐句检索无上下文，`remotely` 误译成“远程” |
+| **deepseek-v4.1-flash** | **25.6s** | 6 | 批量+上下文，空译 0、超长 3、数字保真 |
+
+LLM 版译文示例：
+
+```
+I have nothing, nada, zip, zilch, zippo.
+→ 我一无所有，空空如也，什么都没有。
+
+nothing even remotely researched at all.
+→ 甚至没做过半点研究。
+```
+
 ### CPU 对照
 
 | 模型 | 60s 音频 | 实时倍率 |
@@ -51,7 +68,9 @@
 
 ### 性能结论
 
-60 分钟视频的 ASR 约 **1.5 分钟**，PRD 的 12 分钟目标有 8 倍余量。**翻译的 4–6 分钟占总时间 60–75%，是真正的瓶颈**，优化重点应放在翻译批处理与并发上。
+60 分钟视频的 ASR 约 **1.5 分钟**。翻译实测 **25.6 秒/104 段**（约 6 分钟视频的量），按比例外推 60 分钟视频约 **4 分钟**，仍是全流程最大开销，优化重点应放在批处理并发上。
+
+端到端（355 秒 TED 视频）：**转写 8.75s + 翻译 25.6s ≈ 34 秒**，约 10 倍实时。
 
 ---
 
@@ -102,6 +121,11 @@ SubBridge/
 │     ├─ wer.mjs             评测脚本（含完整归一化规则）
 │     ├─ ted_out.json        实测转写输出（104 段）
 │     └─ ted.en.vtt          人工字幕参考
+├─ spike/translate/          英译中管线
+│  ├─ translate-llm.mjs      LLM 版（推荐，批量+上下文+术语表）
+│  ├─ translate.mjs          MyMemory 版（链路验证）
+│  ├─ ted-llm.zh-en.srt      LLM 实测双语字幕
+│  └─ ted-mymemory.zh-en.srt 对照结果
 ├─ samples/                  测试素材（视频/音频，不入库）
 │  └─ README.md              素材获取与复现步骤
 └─ vendor/
@@ -239,6 +263,7 @@ cargo build --release --features vulkan
 | [TRD-rust.md](TRD-rust.md) | **Rust 方案（主）**：Tauri + whisper-rs + 完整实测数据 |
 | [spike/README.md](spike/README.md) | 验证工程的使用说明与全部实测记录 |
 | [spike/wer/README.md](spike/wer/README.md) | WER 评测方法与归一化规则 |
+| [spike/translate/README.md](spike/translate/README.md) | 翻译管线设计、渠道对比、质量数据 |
 | [vendor/README.md](vendor/README.md) | 依赖安装、Vulkan 构建、许可提醒 |
 
 ---
