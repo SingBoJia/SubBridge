@@ -102,12 +102,14 @@ SubBridge/
 │     ├─ wer.mjs             评测脚本（含完整归一化规则）
 │     ├─ ted_out.json        实测转写输出（104 段）
 │     └─ ted.en.vtt          人工字幕参考
+├─ samples/                  测试素材（视频/音频，不入库）
+│  └─ README.md              素材获取与复现步骤
 └─ vendor/
    ├─ README.md              依赖安装与构建说明
    └─ pdl.mjs                并行分段下载器
 ```
 
-模型、ffmpeg、Vulkan SDK、CUDA 包等大文件不入库，安装方法见 [vendor/README.md](vendor/README.md)。
+模型、ffmpeg、Vulkan SDK、CUDA 包、测试视频等大文件不入库，安装与获取方法见 [vendor/README.md](vendor/README.md) 和 [samples/README.md](samples/README.md)。
 
 ---
 

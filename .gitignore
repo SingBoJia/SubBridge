@@ -13,3 +13,4 @@
 *.wav
 *.flac
 *.zip
+/samples/
