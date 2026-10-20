@@ -1,0 +1,15 @@
+/target/
+**/target/
+/research/
+.research/
+/vendor/downloads/
+/vendor/models/
+/vendor/whisper-cuda/
+/vendor/ffmpeg/
+/vendor/vulkan-sdk/
+/vendor/ninja/
+*.exe
+*.bin
+*.wav
+*.flac
+*.zip

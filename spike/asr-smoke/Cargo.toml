@@ -1,0 +1,13 @@
+[package]
+name = "asr-smoke"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+whisper-rs = "0.16"
+hound = "3.5"
+
+[features]
+default = []
+cuda = ["whisper-rs/cuda"]
+vulkan = ["whisper-rs/vulkan"]
